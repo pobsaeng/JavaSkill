@@ -10,7 +10,7 @@ import java.util.Map;
 public class ReadMap {
 	public static void main(String[] args) {
 		String filePath = "D:/MyWork/Daily/today/Test.txt";		
-		System.out.println("Hello555");
+		System.out.println("Hello55510000");
 //		String delimiter = "|";
 //		try {
 //			Map<String, String> map = readPropertiesFileAsMap(filePath, delimiter);
